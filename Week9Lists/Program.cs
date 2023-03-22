@@ -1,4 +1,4 @@
-﻿string folderPath = @"C:\Users\nxt06\OneDrive\Desktop\data";
+﻿string folderPath = @"\Desktop\data";
 string fileName = "shoppingList.txt";
 string filePath = Path.Combine(folderPath, fileName);
 List<string> myShoppingList = new List<string>();
